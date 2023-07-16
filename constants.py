@@ -1,0 +1,26 @@
+LOGIN = 'LOGIN'
+ACCUEIL = 'ACCUEIL'
+MINE = 'MINE'
+CLAIM = 'CLAIM'
+
+FOLDER_IMG = 'Img/'
+IMG_LOGIN = 'login.png'
+IMG_INVENTORY = 'inventory.png'
+IMG_BTN_ACCUEIL= 'btnAccueil.png'
+IMG_MINE_ACCUEIL = 'mineAccueil.png'
+IMG_MINE_SECONDAIRE = 'mineSecondaire.png'
+IMG_MINING_HUB = 'miningHub.png'
+IMG_CLAIM = 'claim.png'
+IMG_CAPTCHA = 'captcha.png'
+IMG_CAPTCHA_DEUX = 'captcha2.png'
+IMG_BUSTER = 'buster.png'
+IMG_ERREUR = 'erreur.png'
+IMG_AVICADO = 'avocado.png'
+IMG_VALID_CAPTCHA = 'validCaptcha.png'
+IMG_APPROVE = 'approve.png'
+IMG_APPROVE_DEUX = 'approve2.png'
+IMG_RETRY_BUSTER = 'retryBuster.png'
+
+URL = 'https://url.io/'
+
+NB_TRY_MAX = 20

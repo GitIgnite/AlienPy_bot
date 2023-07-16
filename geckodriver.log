@@ -1,0 +1,50 @@
+1620164684156	geckodriver	INFO	Listening on 127.0.0.1:54468
+1620166538232	geckodriver	INFO	Listening on 127.0.0.1:55162
+1620166541262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ravet\\AppData\\Local\\Temp\\rust_mozprofilezL868h"
+1620166541542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620166543379	Marionette	INFO	Listening on port 55171
+1620166543428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.url.io/Build/061f463856577255fb5eefaf73e67127.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://play.url.io/Build/061f463856577255fb5eefaf73e67127.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://play.url.io/Build/061f463856577255fb5eefaf73e67127.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://play.url.io/waxjs.js, line 1: Error: Login Endpoint Error 422 Unprocessable Entity
+Loading player data from data.unity3d
+Initialize engine version: 2019.4.22f1 (9fdda2fe27ad)
+Renderer: Mozilla
+Vendor:   Mozilla
+Version:  OpenGL ES 3.0 (WebGL 2.0)
+GLES:     3
+ EXT_color_buffer_float GL_EXT_color_buffer_float EXT_float_blend GL_EXT_float_blend EXT_texture_compression_bptc GL_EXT_texture_compression_bptc EXT_texture_compression_rgtc GL_EXT_texture_compression_rgtc EXT_texture_filter_anisotropic GL_EXT_texture_filter_anisotropic OES_texture_float_linear GL_OES_texture_float_linear OVR_multiview2 GL_OVR_multiview2 WEBGL_compressed_texture_s3tc GL_WEBGL_compressed_texture_s3tc WEBGL_compressed_texture_s3tc_srgb GL_WEBGL_compressed_texture_s3tc_srgb WEBGL_debug_renderer_info GL_WEBGL_debug_renderer_info WEBGL_debug_shaders GL_WEBGL_debug_shaders WEBGL_lose_context GL_WEBGL_lose_context
+OPENGL LOG: Creating OpenGL ES 3.0 graphics device ; Context level  <OpenGL ES 3.0> ; Context handle 22990368
+UnloadTime: 1.000000 ms
+Input Manager initialize...
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker28, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:285:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3735:24\ndestroy@resource://devtools/client/framework/toolbox.js:3669:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3645:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 99))
+1620166837708	Marionette	INFO	Stopped listening on port 55171
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620166957948	geckodriver	INFO	Listening on 127.0.0.1:55500
+1620166961009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ravet\\AppData\\Local\\Temp\\rust_mozprofileIzf8mx"
+1620166961318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620166963143	Marionette	INFO	Listening on port 55508
+1620166963178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.url.io/Build/061f463856577255fb5eefaf73e67127.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://play.url.io/Build/061f463856577255fb5eefaf73e67127.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript warning: https://play.url.io/Build/061f463856577255fb5eefaf73e67127.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+JavaScript error: https://play.url.io/waxjs.js, line 1: Error: Login Endpoint Error 422 Unprocessable Entity
+Loading player data from data.unity3d
+Initialize engine version: 2019.4.22f1 (9fdda2fe27ad)
+Renderer: Mozilla
+Vendor:   Mozilla
+Version:  OpenGL ES 3.0 (WebGL 2.0)
+GLES:     3
+ EXT_color_buffer_float GL_EXT_color_buffer_float EXT_float_blend GL_EXT_float_blend EXT_texture_compression_bptc GL_EXT_texture_compression_bptc EXT_texture_compression_rgtc GL_EXT_texture_compression_rgtc EXT_texture_filter_anisotropic GL_EXT_texture_filter_anisotropic OES_texture_float_linear GL_OES_texture_float_linear OVR_multiview2 GL_OVR_multiview2 WEBGL_compressed_texture_s3tc GL_WEBGL_compressed_texture_s3tc WEBGL_compressed_texture_s3tc_srgb GL_WEBGL_compressed_texture_s3tc_srgb WEBGL_debug_renderer_info GL_WEBGL_debug_renderer_info WEBGL_debug_shaders GL_WEBGL_debug_shaders WEBGL_lose_context GL_WEBGL_lose_context
+OPENGL LOG: Creating OpenGL ES 3.0 graphics device ; Context level  <OpenGL ES 3.0> ; Context handle 22990368
+UnloadTime: 0.000000 ms
+Input Manager initialize...
+1620166981726	Marionette	INFO	Stopped listening on port 55508
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
